@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4609" started-at="2020-08-09T17:15:52 MSK" finished-at="2020-08-09T17:15:57 MSK">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4609" started-at="2020-08-09T17:15:52 MSK" finished-at="2020-08-09T17:15:57 MSK">
+      <class name="Tests">
+        <test-method status="PASS" signature="test_01_post()[pri:0, instance:Tests@6973bf95]" name="test_01_post" duration-ms="3668" started-at="2020-08-09T17:15:52 MSK" finished-at="2020-08-09T17:15:56 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_post -->
+        <test-method status="PASS" signature="test_02_patch()[pri:0, instance:Tests@6973bf95]" name="test_02_patch" duration-ms="439" started-at="2020-08-09T17:15:56 MSK" finished-at="2020-08-09T17:15:56 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_patch -->
+        <test-method status="PASS" signature="test_03_delete()[pri:0, instance:Tests@6973bf95]" name="test_03_delete" duration-ms="365" started-at="2020-08-09T17:15:56 MSK" finished-at="2020-08-09T17:15:57 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03_delete -->
+      </class> <!-- Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
